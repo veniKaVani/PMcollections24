@@ -1,0 +1,15 @@
+{
+	"id": "143aab67-0439-4e5a-8417-7116341cce2c",
+	"name": "GoRestUsersEnv",
+	"values": [
+		{
+			"key": "base_Url",
+			"value": "https://gorest.co.in",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-09-10T01:42:07.961Z",
+	"_postman_exported_using": "Postman/11.11.1"
+}
